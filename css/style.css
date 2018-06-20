@@ -1,0 +1,73 @@
+body{
+  background-color: #060606bd;
+  color: #e3cd95;
+
+}
+#cover{
+  background-image: url('../images/nightking.jpg');
+  background-repeat: no-repeat;
+  background-size: cover,cover;
+  height: 690px;
+  border-bottom: 8px solid #16529de0;
+}
+.container{
+  width: 50%;
+  float: left;
+
+}
+.title{
+  font-family: 'Oxygen' ,sans-serif;
+  font-size: 120px;
+  margin-top: 30%;
+  text-align: center;
+  color: #e1eaef;
+}
+
+#books{
+  font-family: 'Oxygen',sans-serif;
+  text-align: center;
+  font-size: 45px;
+  border-bottom: 8px solid #16529de0;
+}
+
+a{
+  color: #e1eaef;
+}
+
+a:hover{
+  color: #16529de0;
+}
+
+#video{
+  position: center,center;
+  size: cover;
+}
+.movie-clip{
+  font-family: 'Oxygen',sans-serif;
+  text-align: center;
+  font-size: 65px;
+}
+.video-clip{
+  border-bottom: 8px solid #16529de0;
+}
+
+#quotes{
+  border-bottom: 8px solid #16529de0;
+}
+.quote-title{
+  font-family: 'Oxygen',sans-serif;
+  text-align: center;
+  font-size: 65px;
+}
+.quote-items{
+  font-family: 'Lobster',cursive;
+  text-align: center;
+  font-size: 25px;
+  list-style: none;
+  color: #e1eaef;
+}
+
+.footer{
+  font-family: 'Oxygen',sans-serif;
+  font-size: 17px;
+}
